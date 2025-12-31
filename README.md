@@ -1,5 +1,6 @@
 # GB882 — Assignment 2: SQL Basics (Snowflake / TPCH)
 **By: Taran Schlichtmann**
+
 **Date: 10/14/2025**
 
 ## Business Context
